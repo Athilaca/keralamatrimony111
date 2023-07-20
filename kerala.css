@@ -1,0 +1,641 @@
+
+.header{
+    width:100%;
+    height:100vh;
+    background-image: url('photos/dhoni-rep-kerala.webp');
+    background-size:cover;
+    background-position:right ;
+     
+     background-repeat: no-repeat;
+}
+     body{
+        margin:0%;
+        
+     }
+     
+
+    
+    nav{
+        padding-left:210px ;
+        
+        font-size: 11px;
+        font-family: Lato, sans-serif;
+        margin: 0%;
+        display: flex;
+        padding-top: 10px;
+    }
+    .logo{
+        width: 187px;
+        height: 59px;
+        margin-left: 210px;
+        margin-top: 5px;
+
+    }
+    .icon{
+        width:23px;
+        height:23px;
+margin-left:105%;
+margin-top:15px;
+        
+    }
+    .new{
+    display: flex;
+    
+    
+}.new1{
+    margin-top:15px;
+    display: flex;
+}
+.text{
+    padding-left:500px;
+    font-family: Lato, sans-serif;
+    float: left;
+    width: 157px;
+
+}
+.login
+{
+width: 94px;
+margin-top: 10px;
+padding-top: 5px;
+color: orange;
+border-radius:5px;
+height: 30px;
+background-color: #e3dacb;
+border-color:#ff9902;
+border-width: 0.5px;
+
+}
+.details{
+    margin-left: 205px;
+    padding-top: 80px;
+    font-size: 22px;
+    font-family: Lato, sans-serif;
+    height: 30px;
+letter-spacing: 1px;
+}
+.details1{
+    font-family: Lato, sans-serif;
+    height:15px;
+    font-size: 30px;
+    margin-left:205px ;
+    letter-spacing: 1px;
+}
+.box{
+background-color:  white;
+width:60%;
+height:95px;
+margin-left: 205px;
+margin-top: 35px;
+border-radius: 10px;
+display: flex;
+}
+.profile{
+    padding-left: 26px;
+    padding-top:20px;
+    font-family: Lato, sans-serif;
+    font-size:14px;
+    letter-spacing: 1px;
+    
+    
+}
+/* .dropbtn{ */
+    padding:16px;
+    font-size: 16px;
+    border:none;
+}
+
+/* .dropdown{ */
+    
+
+.select{
+   font-size:20px;
+    letter-spacing:3px;
+    border-style: hidden;
+    width:600px;
+    height: 20px;
+}
+
+.name{
+    padding-left: 60px;
+    padding-top:22px;
+    font-family: Lato, sans-serif;
+    font-size:16px;
+    letter-spacing: 2px;
+    
+}
+.enter{
+    border-style: hidden;
+    letter-spacing: 1px;
+}
+.mb{
+    padding-left: 40px;
+    padding-top:22px;
+    font-family: Lato, sans-serif;
+    font-size:15px;
+    letter-spacing: 1px;
+    
+    
+}
+.number{
+    border-style: hidden;
+    letter-spacing: 1px;
+    width:200px;
+}
+.register{
+    background-color:darkorange;
+    letter-spacing: 2px;
+    padding-left: 30px;
+    padding-top: 15px;
+    color: white;
+    width:190px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    font-family: Lato, sans-serif;
+}
+.para{
+    padding-left:46% ;
+    color: grey;
+    font-family: Lato, sans-serif;
+    font-size:12px;
+    letter-spacing: 1px;
+    
+}
+.line{
+    width: 100%;
+    height:80px;
+    background-color:rgb(108, 106, 106);
+    margin-top: 250px;
+    display: flex;
+}
+.tick{
+    margin-left:210px;
+    padding-top:10px;
+}
+.tick1{
+    color: white;
+    padding-left: 15px;
+    font-style: Lato, sans-serif;
+    letter-spacing: 1px;
+    font-size: 15px;
+    padding-top: 10px;
+}
+.tropy{
+    padding-left:70px;
+    padding-top:10px;
+}
+.tropy1{
+    color: white;
+    padding-left: 20px;
+    font-family: Lato, sans-serif;
+    letter-spacing: 1px;
+    font-size: 15px;
+    padding-top: 10px;
+}
+.band{
+    padding-left:70px;
+    padding-top:10px;
+}
+.band1{
+    color: white;
+    padding-left: 20px;
+    font-style: Lato, sans-serif;
+    letter-spacing: 1px;
+    font-size: 15px;
+    padding-top: 10px;
+}
+.block{
+    background-color: white;
+    width: 100%;
+    height:15%;
+    
+}
+.copyright{
+    padding-top: 10px;
+    text-align: center;
+    color: darkgray;
+    height: 20px;
+}
+.copy{
+    padding-top: 0;
+    text-align: center;
+    color: darkgray;
+    background-color: white;
+    }
+.family{
+        background-image: url('photos/waves-bg-track-y.webp' );
+        height: 50%;
+        width: 100%;
+        padding-left: 210px;
+        display: flex;
+        background-repeat: no-repeat;
+    }
+
+.family-text{
+    margin-top: 50px;
+    
+    font-family: Lato, sans-serif;
+    letter-spacing: 1px;
+    
+}
+.tick2{
+    float: left;
+    width:30px;
+}
+
+.tick3{
+    float: left;
+    width:30px;
+}
+
+.tick4{
+    float: left;
+    width:30px;
+}
+.tick5{
+    float: left;
+    width:30px;
+}
+.tick6{
+    float: left;
+    width:30px;
+}
+.register1{
+    width:350px;
+    height: 40px;
+    background-color: darkorange;
+    border-radius:10px ;
+    padding-left: 20px;
+    padding-top: 20px;
+    font-family: Lato;
+    color:white;
+    font-weight: 700;
+    letter-spacing: 1.2px;
+    margin-bottom: 100px;
+    font-family: Lato, sans-serif;
+
+}
+.family1{
+    padding-top: 50px;
+    padding-left: 55px;
+}
+.bottom-center{
+    position:relative;
+    bottom:150px;
+    left: 20%;
+    color: white;
+    font-size: 50px;
+    font-family: Lato, sans-serif;
+}
+.bottom{
+    position:relative;
+    bottom:145px;
+    left:10px;
+    color: white;
+    font-size: 30px;
+    text-align:center;
+    font-family: Lato, sans-serif;
+    
+}
+.blue{
+    height:160px;
+ background-color: rgb(74, 74, 216);
+    margin-left:240px;
+    margin-right: 240px;
+    border-radius: 15px;
+    display: flex;
+    margin-top: 60px;
+}
+.h2{
+    float: left;
+    color: white;
+    letter-spacing: 1px;
+    padding-top: 30px;
+    font-weight: 700px;
+    margin-left: 50px;
+    font-family: Lato, sans-serif;
+    
+
+}
+.h3{
+
+    color: white;
+    letter-spacing: 1px;
+    padding-left: 20px;
+    padding-top: 30px;
+    margin-left: 30px;
+    font-family: Lato, sans-serif;
+    
+}.p{
+    font-size: 18px;
+    padding-left: 20px;
+    color: white;
+    font-family: Lato, sans-serif;
+}
+.free{
+    width:200px;
+    height:40px ;
+    background-color: white;
+    color: brown;
+    margin-left: 50px;
+    margin-top: 50px;
+    padding-left: 20px;
+    border-radius: 5px;
+    font-size: 20px;
+    
+    padding-bottom: 15px;
+    font-family: Lato, sans-serif;
+}
+.browse{
+    text-align: center;
+    font-weight: 500px;
+    font-size:30px;
+    font-style: Lato, sans-serif;
+    letter-spacing: 1px;
+    padding-top: 15px;
+    height: 50px;
+    font-family: Lato, sans-serif;
+    
+}
+.page{
+    background-color: whitesmoke;
+    margin-top: 60px;
+}.main{
+    display: flex;
+    margin-left:300px;
+    padding: 25px;
+    font-family: Lato, sans-serif;
+    
+}
+.dropbtn{
+    color:black;
+    
+    font-size: 16px;
+    
+
+}
+.religion{
+    position: relative;
+    
+    
+    
+}
+.religion p:hover{
+    color: green;
+    cursor: pointer;
+    text-decoration: underline;
+    
+}
+.dropdown-content{
+    display: none;
+    position: absolute;
+    width:500px;
+    z-index:1;
+}
+.dropdown-content button{
+    color:black;
+    padding: 8px 20px;
+    border-radius: 17px;
+    border-width: 0.1px;
+    border-color: rgb(190, 179, 179);
+    font-size: 16px;
+}
+.dropdown-content button:hover{
+    color:green;
+    cursor: pointer;
+}
+.religion:hover .dropdown-content
+{
+display:block;
+
+}
+.caste{
+padding-left: 80px;
+font-size: 16px;
+}
+.caste:hover{
+    color: green;
+    text-decoration:underline;
+    cursor: pointer;
+}
+.city{
+    padding-left: 80px;
+    font-size: 16px;
+    }
+    .city:hover{
+        color: green;
+        text-decoration:underline;
+        cursor: pointer;
+    }
+    .state{
+        padding-left: 80px;
+        font-size: 16px;
+        }
+        .state:hover{
+            color: green;
+            text-decoration:underline;
+            cursor: pointer;
+        }
+        .country{
+            padding-left: 80px;
+            font-size: 16px;
+            }
+            .country:hover{
+                color: green;
+                text-decoration:underline;
+                cursor: pointer;
+            }
+            .occupation{
+                padding-left: 80px;
+                font-size: 16px;
+                }
+                .occupation:hover{
+                    color: green;
+                    text-decoration:underline;
+                    cursor: pointer;
+                }
+ .essay{
+    margin-left: 130px;
+    margin-right: 150px;
+
+    font-size: 17px;
+    font-family: Lato, sans-serif;
+    padding: 100px;
+ }               
+ .stay{
+    margin-left: 210px;
+    width:600px;
+    margin-top: 60px;
+    font-family: Lato, sans-serif;
+    color:brown;
+    
+ }
+ .app{
+    margin-left: 240px;
+    cursor: pointer;
+    float: left;
+    width:40%;
+    
+ }
+ .elite{
+    width:60%;
+    
+    margin-top: 70px;
+    box-shadow: #0c0c0b;
+    border-style: solid;
+    border-radius: 8px;
+    border-width: 0.01px;
+    border-color: rgb(248, 239, 239);
+    padding-left: 30px;
+    padding-top: 10px;
+    
+ }
+ .icon1{
+    padding-bottom: 30px;
+    
+ }
+ .icon2{
+    padding-left: 50px;
+    padding-bottom:30px ;
+    
+ }
+ .icon3{
+margin-left:200px;}
+
+.black{
+background-color: whitesmoke;
+height:200%;
+
+}
+.white{
+    
+    height:620px;
+    width: 80%;
+    
+    padding-top: 30px;
+    border-bottom: 1px black solid;
+    justify-content: center;
+    margin-left:200px;
+
+}
+    
+.first{
+    float: left;
+    border-right: 1px black solid;
+    
+    width:200px;
+}
+ 
+ .about{
+    
+    padding-top: 30px;
+    font-size: 18px;
+     font-family: Lato, sans-serif;
+ }
+ .step{
+    /* margin-left: 180px; */
+    padding-top: 30px;
+    font-size: 13px;
+    font-family: Lato, sans-serif;
+    color: gray;
+    letter-spacing: 0.1px;
+
+ }
+ .second{
+    float: left;
+    border-right: 1px black solid;
+    width:250px;
+    height:600px;
+ }
+
+    
+
+.help{
+    margin-left:50px;
+    padding-top: 30px;
+    font-size: 20px;
+    
+    
+
+}
+.live{
+    margin-left: 50px;
+    padding-top: 30px;
+    font-size: 13px;
+    font-family: Lato, sans-serif;
+    color: gray;
+    letter-spacing: 0.1px;
+    
+}
+.our{
+    margin-left: 50px;
+    padding-top: 30px;
+    font-size: 20px;
+
+}
+    .com{
+        margin-left: 50px;
+        padding-top: 30px;
+        font-size: 13px;
+        font-family: Lato, sans-serif;
+        color: gray;
+        letter-spacing: 0.1px;
+        
+    }
+    .info{
+        margin-left: 100px;
+        padding-top: 30px;
+        font-size: 20px;
+    }
+        .us{
+            margin-left: 100px;
+            padding-top: 30px;
+            font-size: 13px;
+            font-family: Lato, sans-serif;
+            color: gray;
+            letter-spacing: 0.1px;}
+            .third{
+                float: left;
+                
+            }
+            .related{
+                margin-left:750px;
+                padding-top: 30px;
+                font-size: 20px;
+                
+            }         
+            .happy{
+                margin-left:750px;
+                padding-top: 30px;
+                font-size: 13px;
+                font-family: Lato, sans-serif;
+                color: gray;
+                letter-spacing: 0.1px;}
+ 
+   .third{
+    border-right: 1px black solid;
+    width:250px;
+    height:600px;
+   }  
+   .footer{
+    display: flex;
+   }         
+   .footerfirst{
+    margin-left: 200px;
+    color: gray;
+    letter-spacing: 0.1px;
+    padding-bottom: 30px;
+   }
+   .footersecond{
+    padding-left:100px;
+    padding-top: 10px;
+    display: flex;
+    color: gray;
+    letter-spacing: 0.1px;
+   }
+   .footerthird{
+    color: gray;
+    letter-spacing: 0.1px;
+    padding-top:30px;
+    padding-left:60px;
+   }
